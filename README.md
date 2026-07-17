@@ -18,7 +18,12 @@ Vite 7 · React 19 + TypeScript (thin shell — the world is WebGL) · Three.js 
 
 ## Docs
 
-- `docs/KEMET_LORE.md` — the complete mythology (9 layers, ~144k chars).
+- `docs/lore/` — the complete mythology (9 layers, ~144k chars), in five parts:
+  - `01-prologue-time-bloodlines.md` — Prologue · Neheh/Djet · the three wounds
+  - `02-conception-construction.md` — the Sothic birth · the Valley That Moves · the five chambers
+  - `03-prophecy-realms-threshold-dynasty.md` — the Threefold Return · Realm I (Threshold) · Realm II (Dynasty)
+  - `04-realms-chamber-weighing-eternal.md` — Realm III (Chamber) · Realm IV (Weighing) · Realm V (Eternal)
+  - `05-loop-two-eyes-invocation.md` — the Infinite Loop · the Two Eyes · the Invocation
 - `docs/KEMET_TECH.md` — the full technical architecture (all 5 realms, build specs, budgets).
 - `docs/design.md` — the global design document (palettes, type, motion, chrome, restraint pass).
 
